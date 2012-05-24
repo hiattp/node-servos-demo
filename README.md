@@ -1,4 +1,4 @@
-# Notice:
+# Note:
 
 This code is purely an example for those following along with my blog post about how to interface with servos in realtime from a Node.JS server.
 
